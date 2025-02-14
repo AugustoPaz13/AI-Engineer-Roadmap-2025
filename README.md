@@ -118,7 +118,7 @@ https://docs.python.org/release/3.12.0/
 9. **Kidney Disease Classification** 
 
 
-#### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=nCglvjJkU8A)
+#### Roadmap To Generative AI 
 
 1. Updated Langchain Playlist:
 2. Finetuning Techniques LLM
