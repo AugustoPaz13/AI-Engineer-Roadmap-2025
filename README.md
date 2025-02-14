@@ -1,8 +1,8 @@
 # AI Engineer Roadmap 2025
 
-## What Does An AI Engineer Do? [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=y8qRq9PMCh8)
+## What Does An AI Engineer Do? 
 
-## AI Engineer Job Description [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.linkedin.com/jobs/view/3860957225/)
+## AI Engineer Job Description 
 
 ## 1. Python Programming Language -1 Month
 #### Python:
